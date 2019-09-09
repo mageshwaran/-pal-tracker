@@ -33,6 +33,7 @@ namespace PalTracker
                   Configuration.GetValue<string>("CfInstanceIndex", "1"),
                   Configuration.GetValue<string>("CfInstanceAddr", "127.0.0.1"))
                   );
+                  
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
